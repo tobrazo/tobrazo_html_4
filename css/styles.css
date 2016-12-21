@@ -1,0 +1,170 @@
+
+body{
+	background-image: url(../images/background.png);
+}
+
+.header{
+	background-color: white;
+	padding-top: 30px;
+	margin: 0 100px; 
+	overflow: hidden;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+}
+
+.logo{
+	float: left;
+}
+
+.contacts{
+	margin: 0;
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	float: left;
+	color: blue;
+}
+
+.countries{
+	position: absolute;
+	bottom: 3px;
+	right: 10px;
+}
+
+.listFlags li{
+	float: left;
+	margin: 5px;
+}
+
+.listFlags li a{
+	display: block;
+	text-align: center;
+	padding-top: 45px;
+	background-position: center top;
+	background-repeat: no-repeat;
+	width: 50px;
+	font-size: 10px;
+}
+
+.listFlags .india a{
+	background-image: url(../images/iflag.png);
+}
+
+.listFlags .nepal a{
+	background-image: url(../images/nflag.png);
+}
+
+.listFlags .tibet a{
+	background-image: url(../images/tflag.png);
+}
+
+.listFlags .butan a{
+	background-image: url(../images/mflag.png);
+}
+
+.listFlags .lanka a{
+	background-image: url(../images/sflag.png);
+}
+
+.listFlags .mald a{
+	background-image: url(../images/mflag.png);
+}
+
+
+.image{
+	margin: 0 100px;
+	width: 1151px;
+	overflow: hidden;
+}
+
+.image img{
+	width: 1160px;
+	height: 200px;
+}
+
+.menu{
+	height: 30px;
+	background-color: black;
+	margin-top: -4px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.menuList li{ 
+	float: left;
+	position: relative;
+	margin: 5px;
+	margin-left: 45px;
+}
+
+
+.menuList li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+
+ul.submenu{
+    display: none;
+    position: absolute;
+    background-color: black;
+}
+
+
+ul.submenu > li{
+    display: block;
+}
+
+
+ul.submenu > li > a{
+    display: block;
+    color: white;
+    margin-left: -45px; 
+}  
+
+ul.submenu > li > a:hover{
+    text-decoration: underline;
+}
+
+
+ul.menuList > li:hover > ul.submenu{
+    display: block;
+}
+
+
+.info{
+	float: left;
+	background-color: grey;
+	width: 15%;
+	margin-left: 100px;
+	text-align: center;
+	height: 3000px;
+}
+
+.content{
+	background-color: white;
+	width: 55%;
+	float: left;
+	height: 3000px;
+}
+
+.news{
+	background-color: grey;
+	width: 15%;
+	margin-right: 100px;
+	float: left;
+	height: 3000px;
+}
+
+.news p{
+	text-align: center;
+}
+
+.fon{
+	height: 500px;
+	overflow: hidden; 
+	margin-bottom: 30px;
+	width: 1354px;
+}

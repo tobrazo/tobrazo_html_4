@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ДЗ-3</title>
+    <meta charset="utf8" />
+    <link rel="stylesheet" href="css/yahooreset.css">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="header">
+	<div class="logo">
+		<img src="images/logo.png">
+	</div>
+
+	<div class="contacts">
+		<p>Наши контакты:</p>
+		<p>+9-098-750-3321</p>
+		<p>+9-094-354-3431</p>
+		<p>+9-055-667-4369</p>
+		<p>info@asia-holidays.com</p>
+	</div>
+
+	<div class="countries">
+		<ul class="listFlags">
+			<li class="india"><a href="#">Индия</a></li>
+			<li class="nepal"><a href="#">Непал</a></li>
+			<li class="tibet"><a href="#">Тибет</a></li>
+			<li class="butan"><a href="#">Бутан</a></li>
+			<li class="lanka"><a href="#">Шри-Ланка</a></li>
+			<li class="mald"><a href="#">Мальдивы</a></li>
+		</ul>
+	</div>
+</div>
+
+<div class="image">
+	<img src="images/mal_img.png">
+</div>
+
+<div class="menu">
+	<ul class="menuList">
+		<li><a href="#">Главная</a></li>
+		<li><a href="#">Путешествие</a>
+			<ul class="submenu">
+				<li><a href="#">Путешествие1</a></li>
+				<li><a href="#">Путешествие2</a></li>
+				<li><a href="#">Путешествие3</a></li>
+				<li><a href="#">Путешествие4</a></li>
+				<li><a href="#">Путешествие5</a></li>
+			</ul>
+			</li>
+		<li><a href="#">Услуги</a></li>
+		<li><a href="#">Партнерам</a></li>
+		<li><a href="#">Отзывы клиентов</a></li>
+		<li><a href="#">О нас</a></li>
+		<li><a href="#">Контакты</a></li>
+	</ul>
+</div>
+
+	<div class="fon">
+	<div class="info">
+		<p>Информация</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+	</div>
+	<div class="content">
+		
+	</div>
+	
+	<div class="news">
+		<p>Новости</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+		<p>Lorem ipsum dolor sit amet</p>
+	</div>
+</div>
+</body>
+</html>
